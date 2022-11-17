@@ -1,1 +1,1 @@
-# studyBuddy : A website to help you find the right study buddy for you!
+This is the studyBuddy website I created as a project for COGS 3
